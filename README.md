@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sujan Rai
 - 👀 Interested in software development and programming.
-- 🌱 Currently learning Java.
+- 🌱 Currently learning TS.
 - 📫 How to reach me ??
 -         Connect with me in LinkedIn @Sujan Butang
 
