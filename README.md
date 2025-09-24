@@ -1,4 +1,4 @@
-# 👋 Hey there, I’m **Sujan Butang**
+# 👋 Hey there, I’m **Sujan Rai**
 
 🎯 **Front-end Developer | Creative Coder | Learner at Heart**
 
