@@ -8,7 +8,8 @@
 
 - Passionate about building rich, interactive web experiences  
 - Experienced with React, modern JavaScript, HTML, CSS & animations  
-- Love experimenting with WebGL, creative coding, and immersive UIs  
+- Love experimenting with WebGL, creative coding, and immersive UIs
+- Currently learning WebGL with Three.js to create interactive 3D experiences  
 - Always learning — exploring new frameworks, tools, and paradigms
 
 ---
